@@ -1,0 +1,10 @@
+{
+  "title": "Welcome to react using react-i18next",
+  "description": {
+    "menu1": "For me",
+    "menu2": "Studies",
+    "menu3": "Work experience",
+    "menu4": "Professional experience",
+    "menu5": "Contact"
+  }
+}
