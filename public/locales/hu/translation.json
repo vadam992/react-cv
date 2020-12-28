@@ -1,0 +1,10 @@
+{
+  "title": "Willkommen zu react und react-i18next",
+  "description": {
+    "menu1": "Rólam",
+    "menu2": "Tanulmányok",
+    "menu3": "Munkatapasztalat",
+    "menu4": "Szakmai tapasztalat",
+    "menu5": "Kapcsolat"
+  }
+}
